@@ -1,7 +1,7 @@
-Tarea 1
-Lenguajes de Programación
-Instituto Tecnológivo de Costa Rica
-Duan Antonio Espinoza Olivares
+#Tarea 1
+#Lenguajes de Programación
+#Instituto Tecnológico de Costa Rica
+#Duan Antonio Espinoza Olivares
 
 
 
